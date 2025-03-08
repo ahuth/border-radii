@@ -1,3 +1,5 @@
-# vite-start
+# border-radii
 
-Template with Vite, React, TypeScript, and Tailwind.
+Border radius preview
+
+![screenshot of the app](./radii.png)
